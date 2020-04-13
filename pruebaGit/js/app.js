@@ -1,1 +1,1 @@
-document.querySelector(".mensajePrincipal").innerHTML = "Que pasa";
+document.querySelector(".mensajePrincipal").innerHTML = "Que pasa weon";
